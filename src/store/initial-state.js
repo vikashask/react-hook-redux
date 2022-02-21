@@ -1,5 +1,5 @@
 const initialState = {
-  homePage: null,
+  homePage: "",
 };
 
 export default initialState;
